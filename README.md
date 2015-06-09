@@ -1,0 +1,2 @@
+# Monologue
+Monogame dialogue project
